@@ -1,0 +1,12 @@
+---
+:id: 41946242
+:submitters:
+- :name: Jibryll Brinkley
+  :email: jibryll.brinkley@students.makeschool.com
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-08-31 03:12:07.359944000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-08-30 20:12:07.359944000 Z
+:status: processed
+:score: 6.0
