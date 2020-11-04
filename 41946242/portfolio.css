@@ -4,20 +4,27 @@ html {
     background-image: url(AJBYoWDmgsV86b.jpeg);
 }
  h1 {
-color: white;
+color: purple;
 }
 
 h2, ul {
 font-size: 30px;
-color: black;
+color: purple;
 line-height: 20;
 }
 
 h3 {
-    color:rgb(4, 58, 4);
+    color: purple;
     font-size: 60px;
 }
 
 p {
-color:rgb(4, 58, 4);
+margin: auto;
+color:purple;
+line-height: 40px;
+}
+
+img {
+display: inline-block;
+
 }
